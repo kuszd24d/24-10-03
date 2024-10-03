@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(160, 248, 248);
+    text-align: justify;
+}
+
+#content {
+    width: 600px;
+    border: 3px solid grey;
+    margin: auto;
+    padding: 25px;
+    background-color: rgb(125, 255, 255);
+    border-radius: 12px;
+}
+
+img{
+    /* width: 600px; */
+    max-width: 100%;
+}
